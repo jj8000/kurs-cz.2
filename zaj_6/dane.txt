@@ -1,0 +1,15 @@
+lp,słońce,temperatura,ciśnienie,wiatr,decyzja
+1,słonecznie,gorąco,wysokie,nie,nie
+2,słonecznie,gorąco,wysokie,tak,nie
+3,pochmurno,gorąco,wysokie,nie,tak
+4,deszczowo,odpowiednio,wysokie,nie,tak
+5,deszczowo,zimno,odpowiednie,nie,tak
+6,deszczowo,zimno,odpowiednie,tak,nie
+7,pochmurno,zimno,odpowiednie,tak,tak
+8,słonecznie,odpowiednio,wysokie,nie,nie
+9,słonecznie,zimno,odpowiednie,nie,tak
+10,deszczowo,odpowiednio,odpowiednie,nie,tak
+11,słonecznie,odpowiednio,odpowiednie,tak,tak
+12,pochmurno,odpowiednio,wysokie,tak,tak
+13,pochmurno,gorąco,odpowiednie,nie,tak
+14,deszczowo,odpowiednio,wysokie,tak,nie
